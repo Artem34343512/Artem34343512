@@ -78,6 +78,13 @@ Badcodes.ru
      3. подсказки по фреймворкам на JavaScript;
      4. назидательные примеры программных ошибок.
 Перейти на сайт
+https://www.cyberforum.ru/   Cyberforum.ru
+
+
+https://dropcode.ru/     Dropcode.ru
+
+
+https://badcodes.ru/   Badcodes.ru
 
 
 
